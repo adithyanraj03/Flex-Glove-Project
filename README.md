@@ -75,7 +75,3 @@ To use the Flex Glove Arduino project, follow these steps:
 ## Contributing
 
 Contributions to the Flex Glove Arduino project are welcome. If you have any ideas, improvements, or bug fixes, feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and distribute this code for personal or commercial purposes.
